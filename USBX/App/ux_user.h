@@ -88,6 +88,7 @@
 #define UX_USER_H
 
 /* USER CODE BEGIN 1 */
+./build.py build --release#pragma GCC diagnostic ignored "-Warray-bounds"
 #pragma GCC diagnostic ignored "-Warray-bounds"
 
 /* USER CODE END 1 */
